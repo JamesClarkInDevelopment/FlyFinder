@@ -1,0 +1,198 @@
+.backgroundhome{
+	width:100%;
+	height:100%;
+	background-image: url(../images/merganseredit.jpg);
+	background-size: cover;
+	position: relative;
+	background-repeat:repeat;
+	background-position:center;
+}
+
+.backgroundprofile{
+	
+	background-image: url(../images/brentgeeseedit2.jpg);
+	background-size: cover;
+	background-repeat:repeat;
+	background-position:center;
+}
+
+.backgroundgeese{
+	
+	background-image: url(../images/brentgeeseedit.jpg);
+	background-size: cover;
+	background-repeat:repeat;
+	background-position:center;
+}
+
+.backgroundsearch{
+	width:100%;
+	height:100%;
+	background-image: url(../images/spoonbilledit.png);
+	background-size: cover;
+	position: relative;
+	background-repeat:repeat;
+	background-position:center;
+}
+
+.backgroundregister{
+	width:100%;
+	height:100%;
+	background-image: url(../images/registeredit.png);
+	background-size: cover;
+	position: relative;
+	background-repeat:no-repeat;
+	background-position:center;
+}
+
+.backgroundregistered{
+	width:100%;
+	height:100%;
+	background-image: url(../images/registerededit.jpg);
+	background-size: cover;
+	position: relative;
+	background-repeat:repeat;
+	background-position:center;
+}
+
+.backgroundlogout{
+	width:100%;
+	height:100%;
+	background-image: url(../images/logout.jpg);
+	background-size: cover;
+	position: relative;
+	background-repeat:repeat;
+	background-position:center;
+}
+
+.backgroundeditdetails{
+	width:100%;
+	height:100%;
+	background-image: url(../images/logout.jpg);
+	background-size: cover;
+	position: relative;
+	background-repeat:repeat;
+	background-position:center;
+}
+
+.backgroundseagull{
+	width:100%;
+	height:100%;
+	background-image: url(../images/seagull.jpg);
+	background-size: cover;
+	position: relative;
+	background-repeat:repeat;
+	background-position:center;
+}
+
+
+.backgroundadmin{
+	width:100%;
+	height:100%;
+	background-image: url(../images/admin.jpg);
+	background-size: cover;
+	position: relative;
+	background-repeat:repeat;
+	background-position:center;
+}
+
+.backgroundtest{
+	width:100%;
+	background-image:url(../images/spoonbilledit.png), url(../images/black.jpg);
+	background-repeat: no-repeat,repeat-y;
+	background-position:center-top, center-bottom;
+	background-size: cover;
+	position: relative;
+}
+
+
+.container{
+	position: absolute;
+	top: 0;
+	left:0;
+	width: 100%;
+	height: 100%;
+}
+
+#filler{
+	height:25px;
+}
+
+p{
+	color: white;
+}
+
+#Registerimages{
+	width:150px;
+	height:150px;
+}
+
+#width100{
+	width:100;
+}
+
+#height100{
+	height:100%;
+}
+
+#heightwidth100{
+	height:auto;
+	width:100%;
+}
+
+#registered{
+	height:300px;
+	width:300px;
+}
+
+#membericon{
+	height:100px;
+	width:100px;
+}
+
+#padding10{
+	padding:10px;
+}
+
+#userupload{
+	height:300px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+#tableUserUploads{
+	height:200px;
+	padding-left:10px;
+	padding-right:10px;
+	
+}
+
+#width80{
+	width: 80%;
+}
+
+#ratingbutton{
+	height:100px;
+	width:100px;
+}
+
+#mapHeight{
+	height:500px;
+}
+
+#floatright{
+	float:right;
+}
+
+
+
+
+
+
+
+
+
+
+
+		
